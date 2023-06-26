@@ -191,5 +191,40 @@ h2.title {
 /*-----contact-----*/
 
 
+.contact {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    margin: 50px 100px 50px 100px;
+    padding: 0px 100px 0px 100px;
+    border-radius: 5px;
+}
 
+.contact-info {
+    font-size: 25px;
+    margin: 0px 30px 30px 10px;
+    text-align: left;
+    flex: 1;
+}
 
+.btn-call {
+    border-radius: 8px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+    color: #E5E7EB;
+    padding: 5px 25px;
+}
+
+h3 {
+    margin: 50px 0px -20px 0px;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    color: #E5E7EB;
+    justify-content: center;
+}
